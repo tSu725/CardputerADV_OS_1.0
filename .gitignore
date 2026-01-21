@@ -1,0 +1,39 @@
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+.pio/build/
+.pio/libdeps/
+.pio/test/
+.pio/cache/
+.pio/tmp/
+
+# Скомпилированные файлы
+*.elf
+*.bin
+*.hex
+*.eep
+*.map
+firmware.*
+*.pioignore
+
+# Временные файлы
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Секреты и конфиги (ВАЖНО!)
+platformio.ini.local
+secrets.h
+credentials.h
+wifi_credentials.h
+.env
+.env.*
+config/local_*.h
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.code-workspace
