@@ -7,12 +7,8 @@ The goal of this project is to turn the compact Cardputer into a powerful, user-
 
 ## Screenshots
 
-Here are some glimpses of the interface:
-
-<p align="center">
+<p align="left">
   <img src="images/image.png" width="60%" alt="Cardputer ADV OS main interface">
-  <br>
-  <em>Main interface with custom theme and SD card support</em>
 </p>
 
 More screenshots will be added as the project develops.
