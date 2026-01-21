@@ -4,6 +4,20 @@ Custom lightweight operating system / firmware for **M5Stack Cardputer** (ESP32-
 
 The goal of this project is to turn the compact Cardputer into a powerful, user-friendly multi-purpose device with a smooth graphical interface, SD card support, Wi-Fi capabilities, and room for future expansion.
 
+
+## Screenshots
+
+Here are some glimpses of the interface:
+
+<p align="center">
+  <img src="images/image.png" width="60%" alt="Cardputer ADV OS main interface">
+  <br>
+  <em>Main interface with custom theme and SD card support</em>
+</p>
+
+More screenshots will be added as the project develops.
+
+
 ## Current Features
 
 - Graphical user interface (LVGL + M5GFX)
